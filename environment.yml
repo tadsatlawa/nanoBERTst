@@ -1,0 +1,7 @@
+name: nanobertvenv
+channels:
+  - bioconda
+  - defaults
+dependencies:
+  - transformers
+  - streamlit
